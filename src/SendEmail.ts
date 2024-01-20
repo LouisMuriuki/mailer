@@ -177,7 +177,7 @@ async function sendEmail(req: any, res: any): Promise<void> {
       secure: false, 
       auth: {
         user: "luihugo7@gmail.com", 
-        pass: "ycjzwcmqmrndwgmh", 
+        pass: "***********", // change this for it to work with your email
       },
     });
 
